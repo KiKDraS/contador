@@ -1,1 +1,2 @@
-# Contador realizado con JavaScript. Estilos en CSS
+# Contador realizado con JavaScript
+Estilos en CSS
